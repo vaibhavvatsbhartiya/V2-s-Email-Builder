@@ -2,7 +2,7 @@
 const Navbar = () => {
   return (
     <div>
-      yo ik navbar
+     <p className="text-3xl"> yo ik navbar</p>
     </div>
   )
 }
